@@ -1,0 +1,3 @@
+beer:
+  server:
+    url: "localhost:8080"
